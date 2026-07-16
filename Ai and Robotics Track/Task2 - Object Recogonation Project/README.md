@@ -66,6 +66,4 @@ The detection pipeline (loading the model with OpenCV's `dnn` module, building b
 - nishant4500/object-detection (GitHub): https://github.com/nishant4500/object-detection
 - banishjeffi/Object-Detection (GitHub): https://github.com/banishjeffi/Object-Detection
 
-## Author
 
-Created as part of a university computer vision course assignment (Object Recognition task), Summer 2026.
