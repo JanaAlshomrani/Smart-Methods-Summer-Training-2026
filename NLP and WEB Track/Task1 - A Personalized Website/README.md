@@ -1,22 +1,22 @@
-# Smart-Methods-Summer-Training-2026
+# Personal Website
 
-Welcome to the Smart Methods Summer Training Program 2026 —a multi-track learning journey covering **Mechanical Engineering, Electrical Engineering & IoT, AI & Robotic Systems, and Web Development.
+A personal portfolio website showcasing my background as an Electrical & Computer Engineering student.
 
-This repository serves as the **central hub** for all tasks, documentation, and deliverables across the four tracks. Each track has its own folder containing individual tasks, and **every task includes its own README** with detailed instructions, code, and results.
+🔗 **Live site:** https://jana.xo.je/
 
----
+## About
 
-## 📚 Program Overview
+This site introduces me as an Electrical & Computer Engineering student at King Abdulaziz University, College of Engineering, Jeddah, Saudi Arabia. It highlights my academic background in circuit design, 3D modeling, and embedded systems through hands-on projects.
 
-This summer training is designed to provide hands-on experience in:
-- **Mechanical Design**: CAD modeling, mechanisms, and prototyping.
-- **Electrical Engineering & IoT**: Circuit design, embedded systems, sensors, and connectivity.
-- **AI & Robotic Systems**: Machine learning, computer vision, robot control, and autonomy.
-- **Web Development**: Frontend, backend, APIs, and full-stack integration.
+## Tech Stack
 
-Each track consists of multiple tasks that build practical skills and encourage collaboration.
+- HTML
 
----
+## How to Use
 
-## 📁 Repository Structure
+1. Clone this repository.
+2. Open `index.html` in any web browser.
 
+## Author
+
+Jana Alshomrami
