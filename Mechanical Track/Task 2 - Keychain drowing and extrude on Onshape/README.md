@@ -9,10 +9,11 @@ This task focuses on creating a simple 3D keychain model in Onshape. The design 
 ## Files
 - `README.md`
 - Design screenshot
+- Design STL file
+- Design Link
 
 ## Tools Used
 - Onshape
-- Mechanical design workflow
 
 ## Result
 A completed keychain model ready for review.
