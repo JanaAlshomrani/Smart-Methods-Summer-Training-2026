@@ -72,7 +72,7 @@ echo $ROS_DISTRO
 ros2 pkg list
 
 ```
-<img width="149" height="20" alt="لقطة شاشة 2026-08-01 183850" src="https://github.com/user-attachments/assets/1471237c-6932-4c2e-8d6b-7a411fc91c51" />
+<img width="300" height="40" alt="لقطة شاشة 2026-08-01 183850" src="https://github.com/user-attachments/assets/1471237c-6932-4c2e-8d6b-7a411fc91c51" />
 
 
 ## Errors Encountered and Fixes
