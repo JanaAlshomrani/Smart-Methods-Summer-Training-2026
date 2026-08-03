@@ -27,7 +27,7 @@ This part contains an exploded view of a different robotic dog model. the assemb
 ### Pictures
 
 <img width="410" height="365" alt="image" src="https://github.com/user-attachments/assets/4fc4de6a-7981-4ea9-ad38-c7dce1d72b4d" />
- <img width="254" height="214" alt="image" src="https://github.com/user-attachments/assets/87986649-97c6-464b-a281-0615c341ffdf" />
+ <img width="410" height="365" alt="image" src="https://github.com/user-attachments/assets/87986649-97c6-464b-a281-0615c341ffdf" />
 
 
 
