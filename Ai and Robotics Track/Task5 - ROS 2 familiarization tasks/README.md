@@ -1,4 +1,4 @@
-# ROS 2 Task Submission
+# ROS 2 familiarization tasks
 
 This submission contains two parts: a customized publisher/subscriber pair, and a turtlesim node that draws a star shape.
 
@@ -9,13 +9,13 @@ The standard ROS 2 talker/listener demo publishes "Hello World" over a topic. Th
 ### Logic
 
 - The **talker** node (`my_talker.py`) creates a publisher on a topic called `topic` using the `std_msgs/String` message type.
-- A ROS 2 timer fires every 0.5 seconds, building a new `String` message and overwriting `msg.data` with custom text (`"Yalla habibi, count: {i}"`, incrementing a counter each time) before publishing it.
+- A ROS 2 timer fires every 0.5 seconds, building a new `String` message and overwriting `msg.data` with custom text (`"JANA THE ENG, count: {i}"`, incrementing a counter each time) before publishing it.
 - The **listener** node (`my_listener.py`) subscribes to the same topic name and message type. Whenever a message arrives, ROS automatically calls `listener_callback`, which prints whatever string it receives.
 - The two nodes never talk to each other directly — they only agree on a shared topic name and message type, which is the core idea behind ROS 2's publish-subscribe communication pattern.
 
 ### Files
-- `my_talker.py` — publisher node with the customized message
-- `my_listener.py` — subscriber node that prints received messages
+- `jana_talker.py` — publisher node with the customized message
+- `jana_listener.py` — subscriber node that prints received messages
 
 ### How to run
 
@@ -37,7 +37,8 @@ ros2 run py_pubsub listener
 
 ### Screenshot — talker/listener output
 
-*(Paste terminal screenshot here showing "Publishing: ..." in one terminal and "I heard: ..." in the other)*
+<img width="683" height="502" alt="لقطة شاشة 2026-08-08 010205" src="https://github.com/user-attachments/assets/7b841777-8fc8-4f1d-8e9b-a9c9a215d6da" />
+
 
 ---
 
@@ -74,7 +75,8 @@ python3 turtle_star.py
 
 ### Screenshot — resulting star shape
 
-*(Paste screenshot of the TurtleSim window showing the completed star)*
+<img width="958" height="500" alt="لقطة شاشة 2026-08-08 023043" src="https://github.com/user-attachments/assets/2ca6c4b3-9274-4ddb-a9ab-3e900be28130" />
+
 
 ---
 
