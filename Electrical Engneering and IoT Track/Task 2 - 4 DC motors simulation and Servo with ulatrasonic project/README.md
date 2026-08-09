@@ -126,9 +126,6 @@ All grounds must be common between the Arduino and any external power sources.
 
 ### Simulation Wiring Image
 
-
-https://github.com/user-attachments/assets/3020e594-eeaf-4e9a-a489-b892f46b915e
-
 <img width="238" height="313" alt="image" src="https://github.com/user-attachments/assets/26563ae9-519f-4240-8853-82d3b97e1d59" />
 
 
