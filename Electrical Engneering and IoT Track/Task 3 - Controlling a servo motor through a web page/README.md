@@ -35,9 +35,9 @@ The ESP32 uses SoftAP mode to create its own wireless network and hosts the cont
 
 | Component | ESP32 connection |
 |---|---:|
-| Servo signal | GPIO 18 |
-| Green LED anode through 220 Ω resistor | GPIO 25 |
-| Red LED anode through 220 Ω resistor | GPIO 26 |
+| Servo signal | GPIO 17 |
+| Green LED anode through 220 Ω resistor | GPIO 21 |
+| Red LED anode through 220 Ω resistor | GPIO 22 |
 | LED cathodes | GND |
 | Servo ground | GND |
 | Servo power | 5 V / external 5 V supply |
@@ -46,11 +46,7 @@ The ESP32 uses SoftAP mode to create its own wireless network and hosts the cont
 
 ## Wiring Diagram
 
-_Add the wiring image below:_
-
-![ESP32 servo control wiring](images/wiring.png)
-
-> Replace `images/wiring.png` with the filename or path of the final wiring picture.
+<img width="297" height="247" alt="image" src="https://github.com/user-attachments/assets/5bcd213d-9ce1-4454-9bcc-f45a1fc40187" />
 
 ## Software Requirements
 
@@ -114,11 +110,11 @@ const int CLOSE_ANGLE = 0;
 
 ## Demonstration Video
 
-_Add the demonstration video below:_
 
-[![ESP32 Servo Web Control Demonstration](images/demo-thumbnail.png)](VIDEO_LINK_HERE)
 
-> Replace `VIDEO_LINK_HERE` with the final video link. If the video is stored locally, replace the thumbnail link with the appropriate file path.
+https://github.com/user-attachments/assets/1df1c4dc-23e7-4ff4-b88a-76d668426cb9
+
+
 
 ## Testing Results
 
