@@ -54,13 +54,16 @@ The uploaded code controls the motors in three main phases:
 This demonstrates control of direction, speed (via PWM), and timed motion sequences using Arduino.
 
 ### Simulation Wiring Image
-> *(Insert wiring diagram/screenshot here)*
+<img width="460" height="346" alt="image" src="https://github.com/user-attachments/assets/2287fe4f-d8bd-40f4-80e2-fcc8e606f3a0" />
+
 
 ### Simulation Video
-> *(Insert simulation video link or placeholder here)*
+https://github.com/user-attachments/assets/2522ed17-4ed9-4302-9246-abf8116112a5
 
-### Code Repository / Link
-> *(Insert code link here – e.g., GitHub, Google Drive, or LMS)*
+
+### Simulation Link on tinker cad
+https://www.tinkercad.com/things/37j0jirPoAf-4-dc-motors-control
+
 
 ---
 
@@ -79,10 +82,10 @@ Use an ultrasonic distance sensor (HC‑SR04) and a servo motor (plus an optiona
 
 ### Arduino Pin Configuration (example)
 ```cpp
-const int trigPin = 9;
-const int echoPin = 8;
-const int servoPin = 6;
-const int ledPin   = 7;
+const int trigPin = 3;
+const int echoPin = 2;
+const int servoPin = 8;
+const int ledPin = 4;
 ```
 
 - `trigPin` – Trigger pin for HC‑SR04  
@@ -122,10 +125,19 @@ const int ledPin   = 7;
 All grounds must be common between the Arduino and any external power sources.
 
 ### Simulation Wiring Image
-> *(Insert simulation wiring image or diagram here)*
+
+
+https://github.com/user-attachments/assets/3020e594-eeaf-4e9a-a489-b892f46b915e
+
+<img width="238" height="313" alt="image" src="https://github.com/user-attachments/assets/26563ae9-519f-4240-8853-82d3b97e1d59" />
+
 
 ### Simulation Video
-> *(Insert simulation video link or placeholder here)*
+https://github.com/user-attachments/assets/aaa0e951-7805-453b-9a6d-980f191ad932
+
+
 
 ### Real Implementation Video
-> *(Insert real hardware demonstration video link or placeholder here)*
+https://github.com/user-attachments/assets/31beee62-ceb9-463e-843b-0ba4aaf6c2f1
+
+
