@@ -4,7 +4,7 @@ A simple full-stack web application that allows users to add people to a MySQL d
 
 ## Live Website
 
-**Website Link:** [Add your live website link here](PASTE_YOUR_WEBSITE_LINK_HERE)
+**Website Link:** [Add your live website link here](https://jeddahhospital.site.je/)
 
 ---
 
@@ -95,35 +95,12 @@ CREATE TABLE persons (
 
 ## Website Screenshot
 
-> Add a screenshot of the completed website here.
+<img width="728" height="432" alt="image" src="https://github.com/user-attachments/assets/5afb6d2c-a572-41bb-8b25-bcfdbc4e49bd" />
 
-```text
-[ INSERT WEBSITE SCREENSHOT HERE ]
-```
-
-Example after uploading an image named `website-screenshot.png` to your repository:
-
-```md
-![Website Screenshot](website-screenshot.png)
-```
-
----
 
 ## Database Screenshot
 
-> Add a screenshot from phpMyAdmin showing the `persons` table here.
-
-```text
-[ INSERT DATABASE SCREENSHOT HERE ]
-```
-
-Example after uploading an image named `database-screenshot.png` to your repository:
-
-```md
-![Database Screenshot](database-screenshot.png)
-```
-
----
+<img width="607" height="409" alt="image" src="https://github.com/user-attachments/assets/1342f897-b2ea-41d2-877e-745f5041471f" />
 
 ## Setup Instructions
 
