@@ -4,7 +4,7 @@ A simple full-stack web application that allows users to add people to a MySQL d
 
 ## Live Website
 
-**Website Link:** [click here](https://jeddahhospital.site.je/)
+**Website Link:** https://jeddahhospital.site.je/
 
 ---
 
